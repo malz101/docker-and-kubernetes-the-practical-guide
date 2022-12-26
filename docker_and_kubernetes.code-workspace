@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "first-demo-starting-setup"
+		},
+		{
+			"path": "nodejs-app-starting-setup"
+		},
+		{
+			"path": "nodejs-app-finished"
+		},
+		{
+			"path": "python-app-starting-setup"
+		}
+	],
+	"settings": {}
+}
